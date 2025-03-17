@@ -1,0 +1,2 @@
+El patrón Singleton garantiza que una clase tenga una única instancia y
+proporciona un punto de acceso global a esa instancia.

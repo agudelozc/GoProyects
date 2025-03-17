@@ -1,0 +1,3 @@
+El patrón Builder se utiliza para construir objetos complejos paso a paso.
+Permite la creación de diferentes tipos y representaciones del mismo objeto.
+

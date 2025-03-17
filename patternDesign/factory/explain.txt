@@ -1,0 +1,2 @@
+El patrón Factory se utiliza para crear objetos sin especificar la clase
+exacta del objeto que se creará. El objeto creado generalmente implementa una interfaz común.

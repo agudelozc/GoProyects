@@ -1,0 +1,2 @@
+El patrón Facade proporciona una interfaz unificada para un conjunto de interfaces en un subsistema.
+Simplifica la interfaz del cliente y proporciona un punto de entrada único para acceder al sistema.

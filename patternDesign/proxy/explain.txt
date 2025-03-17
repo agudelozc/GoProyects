@@ -1,0 +1,2 @@
+El patrón Proxy proporciona un representante o un sustituto de otro objeto para controlar el acceso a él.
+Se utiliza para agregar funcionalidad adicional a un objeto sin cambiar su interfaz.

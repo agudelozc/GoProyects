@@ -1,0 +1,3 @@
+El patrón Adapter permite que objetos con interfaces incompatibles trabajen juntos.
+Se utiliza para permitir la interoperabilidad entre clases que de otro modo no podrían
+trabajar juntas debido a interfaces incompatibles.

@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "broker-service"
+		},
+		{
+			"path": "project"
+		},
+		{
+			"path": "logger-service"
+		},
+		{
+			"path": "authentication-service"
+		},
+		{
+			"path": "mail-service"
+		}
+	]
+}

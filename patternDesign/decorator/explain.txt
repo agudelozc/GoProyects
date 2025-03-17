@@ -1,0 +1,3 @@
+El patrón Decorator permite agregar funcionalidad a objetos dinámicamente.
+Se utiliza para extender o modificar el comportamiento de objetos
+individuales sin afectar a otros objetos del mismo tipo.

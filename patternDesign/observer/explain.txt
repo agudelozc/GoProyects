@@ -1,0 +1,2 @@
+El patrón Observer define una dependencia uno a muchos entre objetos, de manera
+que cuando un objeto cambia su estado, todos sus dependientes son notificados y actualizados automáticamente.
